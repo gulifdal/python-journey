@@ -1,129 +1,79 @@
-# 🐍 Python Rebuild Journey
+# 🐍 Python Journey
 
-> *"Learning by building one project at a time."*
+> *"Learning by building, improving, and never giving up."*
 
-⭐ **Python Foundations – Level 1 Completed**
+Welcome!
 
-Welcome to my Python Rebuild Journey!
+I'm **Gül İfdal Aldemir**, an AI Engineering student documenting my journey of learning Python from the ground up.
 
-This repository contains the projects I built while rebuilding my Python programming skills from scratch.
-
-My goal is to build a strong programming foundation before moving on to Artificial Intelligence Engineering, Machine Learning, and real-world software development.
+This repository is my personal learning portfolio, where I organize everything I build while becoming an AI Engineer.
 
 ---
 
-# 📂 Projects
+# 📂 Repository Structure
 
-## ✅ Project 1 – Temperature Converter
+## 📚 01_Foundations
 
-A simple application that converts temperatures between Celsius and Fahrenheit.
+Step-by-step Python topics and exercises.
 
-### Topics Covered
-- Variables
-- User Input
-- Arithmetic Operations
-- Conditional Statements
+Topics completed:
 
----
-
-## ✅ Project 2 – Guess the Secret Number Game
-
-A number guessing game with random numbers, limited attempts, hints, and replay functionality.
-
-### Features
-- Random secret number generation
-- Five attempts
-- "Too High" / "Too Low" hints
-- "Very Close" hint
-- Play Again option
-
-### Topics Covered
-- Random Module
-- While Loop
-- For Loop
-- Conditional Statements
+- ✅ Hello Python
+- ✅ User Input
+- ✅ Age Calculator
+- ✅ Basic Calculator
+- ✅ Name and Age
+- ✅ Age Classification
+- ✅ Grade Checker
+- ✅ Password Checker
+- ✅ Adventure Game
+- ✅ Guess the Number
+- ✅ To-Do List
+- ✅ Functions
+- ✅ Dictionaries
 
 ---
 
-## ✅ Project 3 – Mini Shopping Cart
+## ♻️ 02_Rebuild_Projects
 
-A shopping cart application that stores products, prices, and calculates the total cost.
+Projects rebuilt from scratch to reinforce my Python knowledge.
 
-### Features
-- Add products
-- Store prices
-- Display shopping cart
-- Calculate total cost
+Completed:
 
-### Topics Covered
-- Lists
-- Loops
-- Sum Function
+- 🌡️ Temperature Converter
+- 🎯 Guess the Secret Number Game
+- 🛒 Mini Shopping Cart
+- 🎓 IBU Academic Grade Calculator
+- 📝 Word Counter
+- 🧮 Simple Calculator
 
 ---
 
-## ✅ Project 4 – IBU Academic Grade Calculator
+## 🚀 03_Personal_Projects
 
-A grade calculator based on the International Balkan University grading system.
+Personal applications and games built independently.
 
-### Features
-- Weighted grade calculation
-- Pass / Fail decision
-- Final exam validation
-- Numerical grade system
+**Coming Soon**
 
-### Topics Covered
-- Variables
-- Arithmetic Operations
-- Conditional Statements
-- Real-world grading logic
+Planned projects:
+
+- Adventure Game V2
+- Snake Game
+- To-Do App Pro
+- Calculator Pro
+- AI Mini Projects
 
 ---
 
-## ✅ Project 5 – Word Counter
+## 🎯 04_Future_Goals
 
-A simple text analysis application.
+Personal motivation and future plans.
 
-### Features
-- Word Count
-- Character Count
-- Longest Word
-- Average Word Length
-
-### Topics Covered
-- Strings
-- Lists
-- Loops
-- String Methods
-- Functions
+- 💌 Future Letter
 
 ---
 
-## ✅ Project 6 – Simple Calculator
-
-A calculator that performs basic mathematical operations using Python functions.
-
-### Features
-- Addition
-- Subtraction
-- Multiplication
-- Division
-- Power
-- Modulus
-- Division by Zero Protection
-- Interactive Menu
-- Input Validation
-
-### Topics Covered
-- Functions
-- While Loop
-- Conditional Statements
-- User Input
-- Error Handling
-
----
-
-# 🚀 Technologies
+# 🛠 Technologies
 
 - Python 3
 - Git
@@ -132,43 +82,40 @@ A calculator that performs basic mathematical operations using Python functions.
 
 ---
 
-# 📈 Learning Journey
+# 📈 Learning Progress
 
-✅ Python Foundations – Level 1 (Completed)
+## Python Foundations
 
-🔄 Python Intermediate – Level 2 (Coming Soon)
+🟢 Completed
 
-Future topics:
+## Rebuild Projects
 
-- Advanced Functions
-- Dictionaries
-- File Handling
-- Exception Handling
-- Object-Oriented Programming (OOP)
-- Modules
-- GUI Applications
-- Databases
-- Flask
-- Artificial Intelligence Projects
+🟢 In Progress
+
+## Personal Projects
+
+🟡 Coming Soon
+
+## AI Projects
+
+🔵 Future Goal
 
 ---
 
 # 🎯 Long-Term Goal
 
-My goal is to become an **AI Engineer** by building a strong software engineering foundation through Python, data structures, algorithms, and real-world projects.
+My goal is to become an **AI Engineer** by building a strong software engineering foundation through Python, algorithms, data structures, artificial intelligence, and real-world software projects.
 
-This repository represents my learning journey, one project at a time.
+This repository documents every step of that journey.
 
 ---
 
 # 👩‍💻 Author
 
-**Gül İfdal ALDEMİR**
+**Gül İfdal Aldemir**
 
 AI Engineering Student
 
-📍 Python Rebuild Journey
-
 Started: **July 2026**
 
-GitHub Portfolio • Built with ❤️ and lots of curiosity.
+Built with ❤️, consistency, and curiosity.
