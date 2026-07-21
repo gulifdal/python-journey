@@ -31,7 +31,7 @@ current_goal = input("What isyour current goal? ")
 
 # Create the personalized message using the function.
 
-incroduction = create_incroduction(
+introduction = create_incroduction(
     name,
     dream_job,
     current_goal
@@ -46,6 +46,10 @@ print("========================================================")
 print()
 print("=========================================================")
 print(f"{name}")
+print("==========================================================")
+print()
+print(f"{introduction}")
+print()
 print("==========================================================")
 
 
