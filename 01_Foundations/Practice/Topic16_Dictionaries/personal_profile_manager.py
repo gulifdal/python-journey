@@ -1,3 +1,4 @@
+
 #Topic 16 Practice: Personal Profile Manager
 #Author: Gül İfdal ALDEMİR
 #Date: 23 July 2026
